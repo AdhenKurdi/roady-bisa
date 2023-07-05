@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasets4</folder>
+	<filename>verypoor_115.jpg</filename>
+	<path>/media/hildan/AdhenTamvanDanVemverani/Anotasi/Datasets4/verypoor_115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Berlubang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>214</ymin>
+			<xmax>481</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasets4</folder>
+	<filename>retak324.jpg</filename>
+	<path>/media/hildan/AdhenTamvanDanVemverani/Anotasi/Datasets4/retak324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Retak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>347</ymin>
+			<xmax>1006</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>
